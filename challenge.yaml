@@ -1,0 +1,7 @@
+slug: env-leak
+title: Env Leak
+category: general
+difficulty: easy
+points: 175
+codec: xorb64
+repo_url: https://github.com/sparflag/env-leak
